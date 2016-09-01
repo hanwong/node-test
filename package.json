@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hanwong/node-test/issues"
   },
-  "homepage": "https://github.com/hanwong/node-test#readme"
+  "homepage": "https://github.com/hanwong/node-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
